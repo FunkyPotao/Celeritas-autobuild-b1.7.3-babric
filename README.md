@@ -6,4 +6,4 @@ Not based on tag so highly risky, use at your own risk
 
 Do not use the `-dev-dev.jar` and `-dev-remapped-thin.jar `!
 
-from https://github.com/kappa-maintainer/Celeritas-auto-build
+autobuild script from https://github.com/kappa-maintainer/Celeritas-auto-build
